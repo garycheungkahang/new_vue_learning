@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Make marketing email qwd",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "123123 diu le no mo",
+      "details": "123123",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "diu le no mo",
+      "details": "diu",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
